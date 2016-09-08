@@ -1,0 +1,13 @@
+.row{
+	text-align: center;
+	margin: 20px;
+    padding: 20px;
+}
+button {
+    margin: 20px;
+    padding: 5px;
+    border-radius: 20%;
+}
+div#demo {
+    text-align: center;
+}
